@@ -64,3 +64,14 @@ h2 {
   background-image: url(images/shapes/shape-6.png);
   background-repeat: no-repeat;
 }
+
+.developer {
+  display: flex;
+  margin: 10%;
+}
+#without {
+  padding-top: 10%;
+}
+#limits {
+  padding-top: 10%;
+}
