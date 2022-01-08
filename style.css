@@ -75,3 +75,17 @@ h2 {
 #limits {
   padding-top: 10%;
 }
+#color {
+  background-color: black;
+  color: aliceblue;
+}
+#mission {
+  padding-left: 450px;
+}
+#small {
+  padding-left: 400px;
+  font-size: 10px;
+}
+#first {
+  color: red;
+}
