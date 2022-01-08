@@ -7,6 +7,12 @@ h1 {
   border-left: #88ff00 10px;
   margin-left: 10px;
 }
+#on {
+  border-left: 5px solid red;
+}
+h2 {
+  font-size: 20px;
+}
 .mission {
   color: orange;
 }
@@ -15,9 +21,8 @@ h1 {
   margin-bottom: 50px;
 }
 .half-width {
-  width: 80%;
+  width: 60%;
   padding-left: 5%;
-  box-shadow: 10px 10px 5px 12px rgb(123, 211, 214);
 }
 .half-width img {
   width: 50%;
@@ -42,4 +47,20 @@ h1 {
 .in {
   font-size: 50px;
   border-right: 50px;
+}
+.vission {
+  width: 70%;
+  margin-left: 2%;
+  margin-right: 2%;
+  padding-left: 20px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 30px gray;
+  border-left: 10px solid;
+}
+.learn {
+  font-size: 12px;
+}
+.experience-area {
+  background-image: url(images/shapes/shape-6.png);
+  background-repeat: no-repeat;
 }
